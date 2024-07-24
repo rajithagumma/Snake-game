@@ -1,0 +1,1 @@
+Create snake Game  using HTML, CSS, and JavaScript and show the scores .  Provide the code within separate code blocks for HTML, CSS, and JavaScript in markdown format.
