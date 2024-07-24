@@ -8,17 +8,19 @@ This repository contains the code for a simple Snake game built using HTML, CSS,
 * **Game Over:** The game ends when the snake collides with itself or the walls.
 * **Scorekeeping:** Tracks and displays the player's score.
 
-### Technologies Used
+### Tecgit push -u origin mainhnologies Used
 
 * **HTML:**  Provides the structure for the game canvas.
 * **CSS:** Styles the canvas and the overall layout.
 * **JavaScript:** Handles game logic, animation, and user input.
+* **batao.ai:** AI-powered code generation tool.
+
 
 ### Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/rajithagumma/snake-game.git
    ```
 
 2. **Open the index.html file in your web browser:**
@@ -44,22 +46,6 @@ The code is organized into three main files:
 * **Game Over Screen:** Display a more informative game over screen with the final score.
 * **Levels:** Introduce different levels with increasing difficulty or additional elements.
 * **Sound Effects:** Add sound effects for eating food, game over, and other actions.
-
-Feel free to explore the code and experiment with adding your own features! 
-Bato.ai Integration:
-
-Bato.ai was used to generate parts of the code, particularly in areas like game loop, collision detection, and object movement. This helped speed up the development process and provided a solid foundation for the game.
-
-Future Enhancements:
-
-Difficulty Levels: Add different difficulty levels that adjust the speed and food generation rate.
-Power-Ups: Implement power-ups that grant the snake temporary abilities, like increased speed or invulnerability.
-Multiplayer: Allow two players to compete against each other on the same screen.
-Credits:
-
-Bato.ai: AI-powered code generation tool.
-Pygame: Python library for creating games.
-Disclaimer:
 
 This game is for educational purposes and is not intended for commercial use. The code may not be the most efficient or elegant, but it serves as a starting point for learning and experimenting with game development.
 
